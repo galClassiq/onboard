@@ -5,3 +5,5 @@ model_designer = ModelDesigner()
 
 
 circuit = model_designer.synthesize()
+
+print(circuit)
